@@ -74,7 +74,8 @@
 
 Юсьва районын 5 [[посадму]]:
 
-{| border=1
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|-
 !Ним
 !Му ыжда 
 
@@ -153,7 +154,8 @@
  
 * Посаддэз:
 
-{| border=1
+{| class="wikitable" style="margin: 1em auto 1em auto"
+|-
 !Коми ним
 !Роч ним
 !Морт
