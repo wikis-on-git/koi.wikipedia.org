@@ -1,8 +1,5 @@
 '''Итьоппья''' ('''Эфиопия''')- асыввыв Африкаись канму
 
-[[Категория:Африка|Африка]]
-[[Категория:Африкаись канмуэз]]
-
 {{Вуджанін
 |юрним = [[Африка|Африкаись канмуэз]]
 |рӧм  = {{Рӧм|{{PAGENAME}}}}
@@ -15,9 +12,11 @@
 
 
 }}<!--
---><includeonly>[[Категория:Африка]]</includeonly><!--
+--><includeonly>
+[[Категория:Африка|Африка]]
+[[Категория:Африкаись канмуэз]]
+</includeonly><!--
 --><noinclude>{{br}}{{Documentation}}</noinclude>
-
 
 [[ace:Ethiopia]]
 [[af:Ethiopië]]
@@ -132,6 +131,7 @@
 [[nn:Etiopia]]
 [[no:Etiopia]]
 [[nov:Etiopia]]
+[[nso:Ethiopia]]
 [[nv:Iitáʼoobiyá]]
 [[oc:Etiopia]]
 [[om:Itoophiyaa]]
@@ -148,6 +148,7 @@
 [[ro:Etiopia]]
 [[roa-rup:Ethiopia]]
 [[roa-tara:Etiopie]]
+[[ru:Эфиопия]]
 [[rue:Етіопія]]
 [[rw:Etiyopiya]]
 [[sa:ईथ्योपिया]]
