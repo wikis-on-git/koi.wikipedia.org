@@ -62,12 +62,177 @@ Republiken Finland (шв.)
 Мукӧдкоста Суоми, Шведму да Норвег ӧтлаын шуӧны Скандинав канмуэз, кӧть география ладорсянь дзир Шведму да Норвег олӧны Скандинав кӧджын. Суоми, Шведму, Норвег, [[Данмарк]] да [[Исланд]] ӧтлаӧтӧны и мӧдік нимӧн: Ойвывся канмуэз. Этадз аркмис сы понда, мыля эна канмуэс лӧсьӧтӧмась Ойвывся совет, и сы пыр видзӧны ӧта-мӧдныскӧт  бур йитӧттэз.
 
 == Янсалӧм ==
+[[Файл:Suomen maakunnat.svg|right|320px|Суомилöн регионнэз]]
+{| border=1
+! <small>Регион<br>
+! <small>Шöрин<br>
+! <small>Отир <br>лыд<small>{{Suomen maakunta/väkiluku}}<br><small>({{#time: j.n.Y | {{Suomen maakunta/väkiluku|päiväys}} }})</small><br>
+! <small>Отир лыд<br> 2030 годö<small><br><small>(2009)</small><ref>{{Verkkoviite | Nimeke = Väestöennuste 2009 iän ja sukupuolen mukaan alueittain 2009 - 2040 | Osoite = http://pxweb2.stat.fi/Dialog/Varvalagg.asp?ma=020%5Fvaenn%5Ftau%5F102%5Ffi&ti=V%E4est%F6ennuste+2009+i%E4n+ja+sukupuolen+mukaan+alueittain+2009+%2D+2040&path=../Database/StatFin/vrm/vaenn/&lang=3&xu=&yp=&nr=1&aggfile%281%29=Maakunnat+2009&prevagg=NNNN&mapname=&multilang=fi | Julkaisija = Tilastokeskus}}</ref>
+! <small>Мувывтор<small>{{Suomen maakunta/pinta-ala}}<br>(км²)<br>
+! <small>Öтирлöн-<br>тшöкыта<small><br>(морт/км²)<br><small>({{#time: Y | {{Suomen maakunta/väkiluku|päiväys}} }})</small>
+|- 
+| [[Файл:Aland coat of arms.svg|15px]] '''[[Ахвенанма (регион)|Ахвенанма]]'''
+| [[Марианхамина]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Ahvenanmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 34&nbsp;014
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Ahvenanmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Ahvenanmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Ahvenanmaan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Etelä-Karjala.vaakuna.svg|15px]] '''[[Этеля Карьяла (регион)|Этеля Карьяла]]'''
+| [[Лаппенранта]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Etelä-Karjalan maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 131&nbsp;461
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Etelä-Karjalan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Etelä-Karjalan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Etelä-Karjalan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Etelä-Pohjanmaan maakunnan vaakuna.svg|15px]] '''[[Этеля Похьянма (регион)|Этеля Похьянма]]'''
+| [[Сейняёки]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Etelä-Pohjanmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 199&nbsp;331
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Etelä-Pohjanmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Etelä-Pohjanmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Etelä-Pohjanmaan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Etelä-Savo.vaakuna.svg|15px]] '''[[Этеля Саво (регион)|Этеля Саво]]'''
+| [[Миккели]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Etelä-Savon maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 144&nbsp;637
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Etelä-Savon maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Etelä-Savon maakunta }}/{{Suomen maakunta/pinta-ala/maa|Etelä-Savon maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Kainuu.vaakuna.svg|15px]] '''[[Кайну (регион)|Кайну]]'''
+| [[Каяни]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Kainuun maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 77&nbsp;936
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Kainuun maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Kainuun maakunta }}/{{Suomen maakunta/pinta-ala/maa|Kainuun maakunta}} round 2}} }}
+|
+|- 
+| [[Файл:Kanta-Häme.vaakuna.svg|15px]] '''[[Канта Хяме (регион)|Канта Хяме]]'''
+| [[Хяменлинна]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Kanta-Hämeen maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 199&nbsp;208
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Kanta-Hämeen maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Kanta-Hämeen maakunta }}/{{Suomen maakunta/pinta-ala/maa|Kanta-Hämeen maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Keski-Pohjanmaa.vaakuna.svg|15px]] '''[[Кески Похьянма (регион)|Кески Похьянма]]'''
+| [[Коккола]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Keski-Pohjanmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 74&nbsp;592
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Keski-Pohjanmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Keski-Pohjanmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Keski-Pohjanmaan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Keski-Suomi Coat of Arms.svg|15px]] '''[[Кески Суоми (регион)|Кески Суоми]]'''
+| [[Ювяскюля]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Keski-Suomen maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 291&nbsp;957
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Keski-Suomen maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Keski-Suomen maakunta }}/{{Suomen maakunta/pinta-ala/maa|Keski-Suomen maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Kymenlaakson maakunnan vaakuna.svg|15px]] '''[[Кюменлаксо (регион)|Кюменлаксо]]'''
+| [[Котка]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Kymenlaakson maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 177&nbsp;097
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Kymenlaakson maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Kymenlaakson maakunta }}/{{Suomen maakunta/pinta-ala/maa|Kymenlaakson maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Lapin maakunnan vaakuna.svg|15px]] '''[[Лаппи (регион)|Лаппи]]'''
+| [[Рованиеми]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Lapin maakunta}} }}
+| align=right| [[Файл:Straight Line Steady.svg|12px]] 183&nbsp;925
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Lapin maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Lapin maakunta }}/{{Suomen maakunta/pinta-ala/maa|Lapin maakunta}} round 2}} }}
+|
+|- 
+| [[Файл:Pirkanmaa.vaakuna.svg|15px]] '''[[Пирканма (регион)|Пирканма]]'''
+| [[Тампере]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Pirkanmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 563&nbsp;008
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Pirkanmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Pirkanmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Pirkanmaan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Pohjanmaan maakunnan vaakuna.svg|15px]] '''[[Похьянма (регион)|Похьянма]]'''
+| [[Васа]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Pohjanmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 193&nbsp;073
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Pohjanmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Pohjanmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Pohjanmaan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Pohjois-Karjala.vaakuna.svg|15px]] '''[[Похьёйс Карьяла (регион)|Похьёйс Карьяла]]'''
+| [[Ёэнсу]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Pohjois-Karjalan maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 160&nbsp;874
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Pohjois-Karjalan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Pohjois-Karjalan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Pohjois-Karjalan maakunta}} round 2}} }}
+|
+|- 
+| [[Файл:Pohjois-Pohjanmaan vaakuna.svg|15px]] '''[[Похьёйс Похьянма (регион)|Похьёйс Похьянма]]'''
+| [[Оулу]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Pohjois-Pohjanmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 437&nbsp;507
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Pohjois-Pohjanmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Pohjois-Pohjanmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Pohjois-Pohjanmaan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Pohjois-Savo.vaakuna.svg|15px]] '''[[Похьёйс Саво (регион)|Похьёйс Саво]]'''
+| [[Куопио]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Pohjois-Savon maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 243&nbsp;626
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Pohjois-Savon maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Pohjois-Savon maakunta }}/{{Suomen maakunta/pinta-ala/maa|Pohjois-Savon maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Päijät-Häme.vaakuna.svg|15px]] '''[[Пяйят Хаме (регион)|Пяйят Хяме]]'''
+| [[Лахти]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Päijät-Hämeen maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 219&nbsp;062
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Päijät-Hämeen maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Päijät-Hämeen maakunta }}/{{Suomen maakunta/pinta-ala/maa|Päijät-Hämeen maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Satakunta.vaakuna.svg|15px]] '''[[Сатакунта (регион)|Сатакунта]]'''
+| [[Пори]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Satakunnan maakunta}} }}
+| align=right| [[Файл:Red Arrow Down.svg|12px]] 221&nbsp;378
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Satakunnan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Satakunnan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Satakunnan maakunta}} round 1}} }}
+|
+|- 
+| [[Файл:Uusimaa.vaakuna.svg|15px]] '''[[Усима (регион)|Усима]]'''
+| [[Хельсинки]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Uudenmaan maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 1.624.359
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Uudenmaan maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Uudenmaan maakunta }}/{{Suomen maakunta/pinta-ala/maa|Uudenmaan maakunta}} round 0}} }}
+|
+|- 
+| [[Файл:Varsinais-Suomen.vaakuna.svg|15px]] '''[[Варсинайс Суоми (регион)|Варсинайс Суоми]]'''
+| [[Турку]]
+| align=right| {{Nts|{{Suomen maakunta/väkiluku|Varsinais-Suomen maakunta}} }}
+| align=right| [[Файл:Green Arrow Up.svg|12px]] 502&nbsp;534
+| align=right| {{Nts|{{Suomen maakunta/pinta-ala/maa|Varsinais-Suomen maakunta}} }}
+| align=right| {{Nts|{{#expr: {{Suomen maakunta/väkiluku|Varsinais-Suomen maakunta }}/{{Suomen maakunta/pinta-ala/maa|Varsinais-Suomen maakunta}} round 1}} }}
+|
+|}
 
 == История ==
 
 == Экономика ==
 
 == Культура ==
+
+==Ыстісяннэз==
+<references/>
+
 
 {{Чудь-Йöгра муэз}}
 {{Европаись канмуэз}}
