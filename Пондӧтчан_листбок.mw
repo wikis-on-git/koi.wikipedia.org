@@ -36,14 +36,6 @@
 | style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
 {{Пондӧтчан листбок/Кадлыддян}}
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |[[File:Video-x-generic.svg|30px]] '''[[Википедия:Талуння мультимедиа|Талуння мультимедиа]]'''
-|-
-| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
-[[File:{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|400px|<center>{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>]]
-|}
-{{Чудь-йӧгра викиэз}}
-
 | width="60%" valign="top" style="border-bottom:1px solid #DBD2B0; border-top:1px solid #DBD2B0;"|
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |[[File:HSBild.svg|30px]] '''[[Википедия:Potd|Талуння фото]]'''
@@ -57,6 +49,12 @@
 | style="border-top:1px solid #DBD2B0; font: 100% Verdana;" |
 {{Пытшкӧс}}</td>
 |}
-
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |[[File:Video-x-generic.svg|30px]] '''[[Википедия:Талуння мультимедиа|Талуння мультимедиа]]'''
+|-
+| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
+[[File:{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|400px|<center>{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>]]
+|}
+{{Чудь-йӧгра викиэз}}
 <!--        INTERWIKI STRAPLINE        -->
 __NOTOC____NOEDITSECTION__
