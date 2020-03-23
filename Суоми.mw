@@ -63,12 +63,12 @@
 == Янсалӧм ==
 [[Файл:Regions in Finland.svg|right|320 px|thumb|Суомилöн регионнэз]]
 {| border=1
-! <small>Регион<br />
-! <small>Шöрин<br />
-! <small>Отир <br />лыд<small>{{Suomen maakunta/väkiluku}}<br /><small>({{#time: j.n.Y | {{Suomen maakunta/väkiluku|päiväys}} }})</small><br />
-! <small>Отир лыд<br /> 2030 годö<small><br /><small>(2009)</small><ref>{{Verkkoviite | Nimeke = Väestöennuste 2009 iän ja sukupuolen mukaan alueittain 2009 - 2040 | Osoite = http://pxweb2.stat.fi/Dialog/Varvalagg.asp?ma=020%5Fvaenn%5Ftau%5F102%5Ffi&ti=V%E4est%F6ennuste+2009+i%E4n+ja+sukupuolen+mukaan+alueittain+2009+%2D+2040&path=../Database/StatFin/vrm/vaenn/&lang=3&xu=&yp=&nr=1&aggfile%281%29=Maakunnat+2009&prevagg=NNNN&mapname=&multilang=fi | Julkaisija = Tilastokeskus}}</ref>
-! <small>Мувывтор<small>{{Suomen maakunta/pinta-ala}}<br />(км²)<br />
-! <small>Öтирлöн-<br />тшöкыта<small><br />(морт/км²)<br /><small>({{#time: Y | {{Suomen maakunta/väkiluku|päiväys}} }})</small>
+! <small>Регион</small>
+! <small>Шöрин</small>
+! <small>Отир<br />лыд</small>{{Suomen maakunta/väkiluku}}<br /><small>({{#time: j.n.Y | {{Suomen maakunta/väkiluku|päiväys}} }})</small><br />
+! <small>Отир лыд<br /> 2030 годö</small><br /><small>(2009)</small><ref>{{Verkkoviite | Nimeke = Väestöennuste 2009 iän ja sukupuolen mukaan alueittain 2009 - 2040 | Osoite = http://pxweb2.stat.fi/Dialog/Varvalagg.asp?ma=020%5Fvaenn%5Ftau%5F102%5Ffi&ti=V%E4est%F6ennuste+2009+i%E4n+ja+sukupuolen+mukaan+alueittain+2009+%2D+2040&path=../Database/StatFin/vrm/vaenn/&lang=3&xu=&yp=&nr=1&aggfile%281%29=Maakunnat+2009&prevagg=NNNN&mapname=&multilang=fi | Julkaisija = Tilastokeskus}}</ref>
+! <small>Мувывтор</small>{{Suomen maakunta/pinta-ala}}<br />(км²)<br />
+! <small>Öтирлöн-<br />тшöкыта</small><br />(морт/км²)<br /><small>({{#time: Y | {{Suomen maakunta/väkiluku|päiväys}} }})</small>
 |- 
 | [[Файл:Coat of arms of Åland.svg|15px]] '''[[Ахвенанма (регион)|Ахвенанма]]'''
 | [[Марианхамина (кар)|Марианхамина]]
