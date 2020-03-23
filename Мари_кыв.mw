@@ -9,7 +9,7 @@
 | классификация=Урал котыр
 :Чудь-йӧгра группа
 ::Мари увтыр
-| гижан система=[[кирилл анбур]]  ([[мари анбур]])
+| гижан система=[[кирилл анбур]] ([[мари анбур]])
 | iso1= 
 | iso2=chm
 | iso3= chm — мари (быдсöн)<br />mhr — олык мари <br />mrj — курык мари 
@@ -23,7 +23,7 @@
 Мари кывлӧн кыкнан вариант ӧтлаын [[Роч кыв|роч стандарт кыв]]кӧт лыддиссьӧны каналан кыввезӧн [[Мари Республика]]ын. 
 
 = Кыв отир оланын =
-[[Файл:Mari grammаr (1775).JPG|thumb|250 px|right||Медодзза грамматика мари кыв сьӧрті]]
+[[Файл:Mari grammаr (1775).JPG|thumb|250 px|right|Медодзза грамматика мари кыв сьӧрті]]
 
 == Баитіссез ==
 
@@ -42,179 +42,181 @@
 == Фонология ==
 
 == Мари анбур ==
-{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
-| style="width:3em; text-align:center; padding: 3px;" | А а
-| style="width:3em; text-align:center; padding: 3px;" | Б б
-| style="width:3em; text-align:center; padding: 3px;" | В в
-| style="width:3em; text-align:center; padding: 3px;" | Г г
-| style="width:3em; text-align:center; padding: 3px;" | Д д
-| style="width:3em; text-align:center; padding: 3px;" | Е е
-| style="width:3em; text-align:center; padding: 3px;" | Ё ё
-| style="width:3em; text-align:center; padding: 3px;" | Ж ж
+{| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF; text-align:center"
+| style="width:3em; padding: 3px;" | А а
+| style="width:3em; padding: 3px;" | Б б
+| style="width:3em; padding: 3px;" | В в
+| style="width:3em; padding: 3px;" | Г г
+| style="width:3em; padding: 3px;" | Д д
+| style="width:3em; padding: 3px;" | Е е
+| style="width:3em; padding: 3px;" | Ё ё
+| style="width:3em; padding: 3px;" | Ж ж
 |-
-| style="width:3em; text-align:center; padding: 3px;" | З з
-| style="width:3em; text-align:center; padding: 3px;" | И и
-| style="width:3em; text-align:center; padding: 3px;" | Й й
-| style="width:3em; text-align:center; padding: 3px;" | К к
-| style="width:3em; text-align:center; padding: 3px;" | Л л
-| style="width:3em; text-align:center; padding: 3px;" | М м
-| style="width:3em; text-align:center; padding: 3px;" | Н н
-| style="width:3em; text-align:center; padding: 3px;" | Ҥ ҥ
+| З з
+| И и
+| Й й
+| К к
+| Л л
+| М м
+| Н н
+| Ҥ ҥ
 |-
-| style="width:3em; text-align:center; padding: 3px;" | О о
-| style="width:3em; text-align:center; padding: 3px;" | Ӧ ӧ
-| style="width:3em; text-align:center; padding: 3px;" | П п
-| style="width:3em; text-align:center; padding: 3px;" | Р р
-| style="width:3em; text-align:center; padding: 3px;" | С с
-| style="width:3em; text-align:center; padding: 3px;" | Т т
-| style="width:3em; text-align:center; padding: 3px;" | У у
-| style="width:3em; text-align:center; padding: 3px;" | Ӱ ӱ
+| О о
+| Ӧ ӧ
+| П п
+| Р р
+| С с
+| Т т
+| У у
+| Ӱ ӱ
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Ф ф
-| style="width:3em; text-align:center; padding: 3px;" | Х х
-| style="width:3em; text-align:center; padding: 3px;" | Ц ц
-| style="width:3em; text-align:center; padding: 3px;" | Ч ч
-| style="width:3em; text-align:center; padding: 3px;" | Ш ш
-| style="width:3em; text-align:center; padding: 3px;" | Щ щ
-| style="width:3em; text-align:center; padding: 3px;" | Ъ ъ
-| style="width:3em; text-align:center; padding: 3px;" | Ы ы 
+| Ф ф
+| Х х
+| Ц ц
+| Ч ч
+| Ш ш
+| Щ щ
+| Ъ ъ
+| Ы ы 
 |-
-| style="width:3em; text-align:center; padding: 3px;" | Ь ь
-| style="width:3em; text-align:center; padding: 3px;" | Э э
-| style="width:3em; text-align:center; padding: 3px;" | Ю ю
-| style="width:3em; text-align:center; padding: 3px;" | Я я
+| Ь ь
+| Э э
+| Ю ю
+| Я я
+|
+|
+|
+|
 |}
- 
+
 == Морфология ==
 
 === Лыдним ===
-{| border=1 align="center" cellspacing="0" cellpadding="2"
-! rowspan=1 |[[Лыддьӧс]]
-! colspan=1 |Комиöн
-! colspan=1 |Мари лыдним
+{| border=1 align=center style="text-align:center;" cellspacing="0" cellpadding="2"
+! [[Лыддьӧс]]
+! Комиöн
+! Мари лыдним
 |-
-! align="center" | 1 	
-| width="80" align="center" | '''ӧтік'''  	
-| bgcolor="FFDEAD" width="80" align="center" | ''' ик, икыт'''  
+! 1
+| width="80" | '''ӧтік'''
+| bgcolor="FFDEAD" width="80" | ''' ик, икыт'''
 |-
-! align="center" | 2  	
-| width="80" align="center" | '''кык''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' кок, кокыт''' 
+! 2
+| '''кык'''
+| bgcolor="FFDEAD" | ''' кок, кокыт'''
 |-
-! align="center" | 3  	
-| width="80" align="center" | '''куим''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' кум, кумыт''' 
+! 3
+| '''куим'''
+| bgcolor="FFDEAD" | ''' кум, кумыт'''
 |-
-! align="center" | 4  	
-| width="80" align="center" | '''нёль''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' ныл, нылыт''' 
+! 4
+| '''нёль'''
+| bgcolor="FFDEAD" | ''' ныл, нылыт'''
 |-
-! align="center" | 5  	
-| width="80" align="center" | '''вит''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' вич, визыт''' 
+! 5
+| '''вит'''
+| bgcolor="FFDEAD" | ''' вич, визыт'''
 |-
-! align="center" | 6  	
-| width="80" align="center" | '''квать''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' куд, кудыт''' 
+! 6
+| '''квать'''
+| bgcolor="FFDEAD" | ''' куд, кудыт'''
 |-
-! align="center" | 7  	
-| width="80" align="center" | '''сизим''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' шым, шымыт''' 
+! 7
+| '''сизим'''
+| bgcolor="FFDEAD" | ''' шым, шымыт'''
 |-
-! align="center" | 8  	
-| width="80" align="center" | '''кыкьямыс''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' кандаш, кандаше'''
+! 8
+| '''кыкьямыс'''
+| bgcolor="FFDEAD" | ''' кандаш, кандаше'''
 |-
-! align="center" | 9  	
-| width="80" align="center" | '''ӧкмыс''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' индеш, индеше''' 
+! 9
+| '''ӧкмыс'''
+| bgcolor="FFDEAD" | ''' индеш, индеше'''
 |- 
-! align="center" | 10  
-| width="80" align="center" | '''дас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' лу''' 	
+! 10
+| '''дас'''
+| bgcolor="FFDEAD" | ''' лу'''
 |-
-! align="center" | 11  	
-| width="80" align="center" | '''дасӧтік''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' латик, латикыт''' 
+! 11
+| '''дасӧтік'''
+| bgcolor="FFDEAD" | ''' латик, латикыт'''
 |-
-! align="center" | 12  	
-| width="80" align="center" | '''даскык''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латкок, латкокыт'''
+! 12
+| '''даскык'''
+| bgcolor="FFDEAD" | '''латкок, латкокыт'''
 |-
-! align="center" | 13 	
-| width="80" align="center" | '''даскуим''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латкум, латкумыт'''
+! 13
+| '''даскуим'''
+| bgcolor="FFDEAD" | '''латкум, латкумыт'''
 |-
-! align="center" | 14 	
-| width="80" align="center" | '''даснёль''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латныл, латнылыт''' 
+! 14
+| '''даснёль'''
+| bgcolor="FFDEAD" | '''латныл, латнылыт'''
 |-
-! align="center" | 15  	
-| width="80" align="center" | '''дасвит''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латвич, латвизыт'''
+! 15
+| '''дасвит'''
+| bgcolor="FFDEAD" | '''латвич, латвизыт'''
 |-
-! align="center" | 16  	
-| width="80" align="center" | '''дасквать''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латкуд, латкудыт'''
+! 16
+| '''дасквать'''
+| bgcolor="FFDEAD" | '''латкуд, латкудыт'''
 |-
-! align="center" | 17 	
-| width="80" align="center" | '''дассизим''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латшым, латшымыт'''
+! 17
+| '''дассизим'''
+| bgcolor="FFDEAD" | '''латшым, латшымыт'''
 |-
-! align="center" | 18 	
-| width="80" align="center" | '''даскыкьямыс''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латкандаш, латкандаше''' 	
+! 18
+| '''даскыкьямыс'''
+| bgcolor="FFDEAD" | '''латкандаш, латкандаше'''
 |-
-! align="center" | 19 	
-| width="80" align="center" | '''дасӧкмыс''' 	
-| bgcolor="FFDEAD" width="80" align="center" | '''латиндеш, латиндеше ''' 	
+! 19
+| '''дасӧкмыс'''
+| bgcolor="FFDEAD" | '''латиндеш, латиндеше '''
 |-
-! align="center" | 20  	
-| width="80" align="center" | '''кыкдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' коло''' 	
+! 20
+| '''кыкдас'''
+| bgcolor="FFDEAD" | ''' коло'''
 |-
-! align="center" | 21  	
-
-| width="80" align="center" | '''кыкдас ӧтік'''	
-| bgcolor="FFDEAD" width="80" align="center" | '''коло ик, коло икте'''
+! 21
+| '''кыкдас ӧтік'''
+| bgcolor="FFDEAD" | '''коло ик, коло икте'''
 |-
-! align="center" | 30  	
-| width="80" align="center" | '''куимдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' кумло''' 	
+! 30
+| '''куимдас'''
+| bgcolor="FFDEAD" | ''' кумло'''
 |-
-! align="center" | 40  	
-| width="80" align="center" | '''нёльдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' нылле''' 	
+! 40
+| '''нёльдас'''
+| bgcolor="FFDEAD" | ''' нылле'''
 |-
-! align="center" | 50  	
-| width="80" align="center" | '''витдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' витле''' 	
+! 50
+| '''витдас'''
+| bgcolor="FFDEAD" | ''' витле'''
 |-
-! align="center" | 60  	
-| width="80" align="center" | '''кватьдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' кудло''' 	
+! 60
+| '''кватьдас'''
+| bgcolor="FFDEAD" | ''' кудло'''
 |-
-! align="center" | 70 	
-| width="80" align="center" | '''сизимдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' шымле''' 	
+! 70
+| '''сизимдас'''
+| bgcolor="FFDEAD" | ''' шымле'''
 |-
-! align="center" | 80 	
-| width="80" align="center" | '''кыкьямысдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' кандашле''' 
+! 80
+| '''кыкьямысдас'''
+| bgcolor="FFDEAD" | ''' кандашле'''
 |-
-! align="center" | 90 	
-| width="80" align="center" | '''ӧкмысдас''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' индешле''' 	
+! 90
+| '''ӧкмысдас'''
+| bgcolor="FFDEAD" | ''' индешле'''
 |-
-! align="center" | 100 	
-| width="80" align="center" | '''сё''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' шӱдӧ''' 	
+! 100
+| '''сё'''
+| bgcolor="FFDEAD" | ''' шӱдӧ'''
 |-
-! align="center" | 1000 	
-| width="80" align="center" | '''сюрс''' 	
-| bgcolor="FFDEAD" width="80" align="center" | ''' тӱжем''' 	
+! 1000
+| '''сюрс'''
+| bgcolor="FFDEAD" | ''' тӱжем'''
 |}
-
 
 == Синтаксис ==
 
@@ -233,7 +235,7 @@
 * ''Васильев В. М.'', Марий Мутэр (кыкнан сёрнитан), Центриздат, М., 1929
 * ''Castrén M. A.'', Elementa grammaticae tscheremissicae, Kuopio, 1845 (курык)
 * ''Wiedemann F.'', Versuch einer Grammatik der tscheremissischen Sprache, SPB, 1847 (курык)
-* ''Budenz J.'', Erdei és hegyi cseremisz szótár, Pest, 1866  (кыкнан сёрнитан)
+* ''Budenz J.'', Erdei és hegyi cseremisz szótár, Pest, 1866 (кыкнан сёрнитан)
 * ''Szilasi M.'', Cseremisz szótár, Budapest, 1901 (кыкнан сёрнитан)
 * ''Ramstedt C.'', Bergtscheremissische Sprachstudien, Helsingfors, 1902 (кыкнан сёрнитан)
 * ''Beke О.'', Cseremisz nyelvtan, Budapest, 1911 (кыкнан сёрнитан)
