@@ -41,7 +41,7 @@
 | style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |[[File:HSBild.svg|30px]] '''[[Википедия:Potd|Талуння фото]]'''
 |-
 | style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
-[[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|thumb|center|400px|{{#ifexist: Template:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)|<center>{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>}}]]
+[[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|400px|{{#ifexist: Template:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)|<center>{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>}}]]
 |}
 {| cellspacing="0" cellpadding="5" 
 | style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" COLSPAN=2 |'''Пытшкӧс'''
