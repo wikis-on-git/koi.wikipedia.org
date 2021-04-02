@@ -3,15 +3,15 @@
 {| width="100%" cellpadding="10" cellspacing="10" style="background:#E8E8E8; border-style:solid; border-width:3px; border-color: #E8E8E8;"
 | width="55%" valign="top" style="padding: 0; margin:0;" |
 {| cellspacing="0" cellpadding="4"
-| align="center" style="border-top:1px solid #BED2E0; font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE"|'''Пырӧ Википедияӧ, мезмыт энциклопедияӧ''' 
+| align="center" style="border-top:1px solid #BED2E0" align="center" bgcolor="#D0E2EE"|'''Пырӧ Википедияӧ, мезмыт энциклопедияӧ''' 
 |-
-| style="border-top:1px solid #BED2E0; font: 85% Verdana;" align="left" bgcolor="#EAF5FB"|
-<p>'''Этія листбокыс - медодзза, кӧдӧ гижӧмась [[Википедия]]ын ПЕРЕМ ЛАДОРИСЬ [[Перем Коми кыв|КОМИ КЫВ]] вылын. Корамӧ быдӧннытӧ, дона коми отир, ӧтлаын лӧсьӧтны [[Перем Коми кыв|Перем Коми]] Википедия! Гижӧ берся темаэз сьӧрті, вуджӧтӧ гижӧттэз мӧдік кыввез вылісь, мед миян коми кыв вӧлись мезмис, быдмис и зорамис, мед и миян нёж комиӧн вермисӧ лыддьӧтны отирыс му шар пасьта!</p>
+| style="border-top:1px solid #BED2E0;" align="left" bgcolor="#EAF5FB"|
+<p>'''Этія листбокыс — медодзза, кӧдӧ гижӧмась [[Википедия]]ын ПЕРЕМ ЛАДОРИСЬ [[Перем Коми кыв|КОМИ КЫВ]] вылын. Корамӧ быдӧннытӧ, дона коми отир, ӧтлаын лӧсьӧтны [[Перем Коми кыв|Перем Коми]] Википедия! Гижӧ берся темаэз сьӧрті, вуджӧтӧ гижӧттэз мӧдік кыввез вылісь, мед миян коми кыв вӧлись мезмис, быдмис и зорамис, мед и миян нёж комиӧн вермисӧ лыддьӧтны отирыс му шар пасьта!</p>
 |-
 |}
 
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: Verdana; color:black" align="left" bgcolor="#D0E2EE" |'''[[File:Green star boxed.svg|Бур гижӧт]] <big>'''[[Википедия:Бур гижӧттэз|Бур гижӧттэз]]'''</big> <hr style="border: 2px solid #dfdfdf;" width="100%" />
+| style="color:black" align="left" bgcolor="#D0E2EE" |'''[[File:Green star boxed.svg|Бур гижӧт]] <big>'''[[Википедия:Бур гижӧттэз|Бур гижӧттэз]]'''</big> <hr style="border: 2px solid #dfdfdf;" width="100%" />
 <div style="float:right;clear:all;">[[File:Coat of arms of the Komi-Permyak Okrug.svg|105px|link=|]]</div> 
 <big>'''Коми кытш'''</big>
 
@@ -31,29 +31,30 @@
 </div><br clear="both" />
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |'''[[Википедия:Кадлыддян|Кадлыддян]]'''
+| style="color:black" align="center" bgcolor="#D0E2EE" |'''[[Википедия:Кадлыддян|Кадлыддян]]'''
 |-
-| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
+| style="border-top:1px solid #BED2E0;" align="left" bgcolor="#FFFFFF" |
 {{Пондӧтчан листбок/Кадлыддян}}
+{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
+| style="color:black" align="center" bgcolor="#D0E2EE" |[[File:Video-x-generic.svg|30px]] '''[[Википедия:Талуння мультимедиа|Талуння мультимедиа]]'''
+|-
+| style="border-top:1px solid #BED2E0;" align="left" bgcolor="#FFFFFF" |
+[[File:{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|300px|{{#ifexist: Template:Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi) |<center>{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>}}]]
+|}
 |}
 | width="60%" valign="top" style="border-bottom:1px solid #DBD2B0; border-top:1px solid #DBD2B0;"|
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |[[File:HSBild.svg|30px]] '''[[Википедия:Potd|Талуння фото]]'''
+| style="color:black" align="center" bgcolor="#D0E2EE" |[[File:HSBild.svg|30px]] '''[[Википедия:Potd|Талуння фото]]'''
 |-
-| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
-[[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|400px|{{#ifexist: Template:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)|<center>{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>}}]]
+| style="border-top:1px solid #BED2E0" align="left" bgcolor="#FFFFFF" |
+[[File:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|300px|{{#ifexist: Template:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)|<center>{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>}}]]
 |}
 {| cellspacing="0" cellpadding="5" 
-| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" COLSPAN=2 |'''Пытшкӧс'''
+| style="color:black" align="center" bgcolor="#D0E2EE" COLSPAN=2 |'''Пытшкӧс'''
 |- 
-| style="border-top:1px solid #DBD2B0; font: 100% Verdana;" |
+| style="border-top:1px solid #DBD2B0;" |
 {{Пытшкӧс}}</td>
 |}
-{| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 100% Verdana; color:black" align="center" bgcolor="#D0E2EE" |[[File:Video-x-generic.svg|30px]] '''[[Википедия:Талуння мультимедиа|Талуння мультимедиа]]'''
-|-
-| style="border-top:1px solid #BED2E0; font: 95% Verdana;" align="left" bgcolor="#FFFFFF" |
-[[File:{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|thumb|center|400px|{{#ifexist: Template:Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi) |<center>{{Motd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (koi)}}</center>}}]]
 |}
 {{Чудь-йӧгра викиэз}}
 <!--        INTERWIKI STRAPLINE        -->
